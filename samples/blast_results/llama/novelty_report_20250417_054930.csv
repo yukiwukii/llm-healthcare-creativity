@@ -1,0 +1,26 @@
+Sequence ID,Novelty Status,Top Hit,Top Identity (%)
+llama3_ompT_binder_1,Novel,,0.0
+llama3_ompT_binder_10,Novel,sp|P43241.1| RecName: Full=Homeobox protein CDX-2; AltName: Full=Caudal-type homeobox protein 2 [Mus musculus],70.0
+llama3_ompT_binder_100,Novel,sp|Q5TM84.1| RecName: Full=Homeobox protein NANOG; AltName: Full=Homeobox transcription factor Nanog [Macaca fascicularis],45.0
+llama3_ompT_binder_11,Novel,,0.0
+llama3_ompT_binder_12,Novel,,0.0
+llama3_ompT_binder_13,Novel,,0.0
+llama3_ompT_binder_14,Unknown (BLAST failed),BLAST analysis failed,0.0
+llama3_ompT_binder_15,Novel,sp|Q5SLL0.1| RecName: Full=Argininosuccinate lyase; Short=ASAL; AltName: Full=Arginosuccinase [Thermus thermophilus HB8],37.5
+llama3_ompT_binder_16,Novel,,0.0
+llama3_ompT_binder_17,Novel,sp|P16241.5| RecName: Full=POU domain protein CF1A; AltName: Full=Chorion factor 1A; Short=CF1-A; AltName: Full=Protein drifter; AltName: Full=Ventral veins lacking protein [Drosophila melanogaster],40.0
+llama3_ompT_binder_18,Novel,,0.0
+llama3_ompT_binder_19,Novel,sp|O18400.2| RecName: Full=Pituitary homeobox homolog Ptx1; Short=D-PTX1 [Drosophila melanogaster],47.06
+llama3_ompT_binder_2,Known,sp|P09077.5| RecName: Full=Homeotic protein Sex combs reduced [Drosophila melanogaster],82.35
+llama3_ompT_binder_20,Novel,,0.0
+llama3_ompT_binder_21,Novel,,0.0
+llama3_ompT_binder_22,Novel,sp|Q9U794.1| RecName: Full=Proteasome subunit beta type-1; AltName: Full=20S proteasome subunit beta-6 [Trypanosoma brucei brucei],50.0
+llama3_ompT_binder_23,Novel,,0.0
+llama3_ompT_binder_24,Novel,sp|G0LET5.1| RecName: Full=Cytochrome P450 monooxygenase BOA7; AltName: Full=Botcinic acid biosynthesis cluster B protein 7 [Botrytis cinerea B05.10],50.0
+llama3_ompT_binder_25,Novel,,0.0
+llama3_ompT_binder_26,Unknown (BLAST failed),BLAST analysis failed,0.0
+llama3_ompT_binder_27,Novel,,0.0
+llama3_ompT_binder_28,Unknown (BLAST failed),BLAST analysis failed,0.0
+llama3_ompT_binder_29,Unknown (BLAST failed),BLAST analysis failed,0.0
+llama3_ompT_binder_3,Unknown (BLAST failed),BLAST analysis failed,0.0
+llama3_ompT_binder_30,Unknown (BLAST failed),BLAST analysis failed,0.0

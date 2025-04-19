@@ -1,0 +1,37 @@
+Monte Carlo Docking Results
+==========================
+
+Receptor: ompT_cleaned.pdb
+Ligand: pdb_files/llama/llama3_ompT_binder_70_unrelaxed_rank_004_alphafold2_ptm_model_5_seed_000.pdb
+
+Initial score: 14136.85 REU
+Final score: 14123.13 REU
+Score improvement: 13.72 REU
+
+Receptor score: -350.86 REU
+Ligand score: -0.70 REU
+Binding energy: 14474.69 REU
+
+Binding Energy Interpretation:
+Unfavorable binding (> 10 REU)
+
+Interface Analysis:
+Number of interface contacts: 230
+Receptor residues in interface: 50
+Ligand residues in interface: 16
+
+Interface Residues:
+Receptor: 112, 114, 115, 116, 131, 132, 133, 134, 135, 136, 138, 175, 176, 177, 178, 179, 180, 181, 182, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 253, 254, 255, 256, 257, 258, 259, 260, 266
+Ligand: 13, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29
+
+Closest Contacts:
+1. SER 201 - ASP:CtermProteinFull 29: 0.31 Å
+2. PRO 179 - ARG 25: 0.53 Å
+3. SER 201 - PRO 28: 0.57 Å
+4. ASN 229 - ASP:CtermProteinFull 29: 0.57 Å
+5. TYR 230 - ASP:CtermProteinFull 29: 0.58 Å
+6. GLN 228 - ASN 27: 0.60 Å
+7. TRP 203 - THR 26: 0.60 Å
+8. GLY 202 - PRO 28: 0.62 Å
+9. GLY 202 - ASN 27: 0.62 Å
+10. SER 201 - ASN 27: 0.69 Å

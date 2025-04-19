@@ -1,0 +1,36 @@
+Sequence ID,Novelty Status,Top Hit,Top Identity (%)
+deepseek_r1_ompT_binder_1,Novel,,0.0
+deepseek_r1_ompT_binder_10,Novel,,0.0
+deepseek_r1_ompT_binder_100,Novel,,0.0
+deepseek_r1_ompT_binder_11,Novel,,0.0
+deepseek_r1_ompT_binder_12,Novel,,0.0
+deepseek_r1_ompT_binder_13,Known,sp|P31256.1| RecName: Full=Homeobox protein Hox-B6; AltName: Full=XlHox-2.2 [Xenopus laevis],87.5
+deepseek_r1_ompT_binder_14,Novel,,0.0
+deepseek_r1_ompT_binder_15,Unknown (BLAST failed),BLAST analysis failed,0.0
+deepseek_r1_ompT_binder_16,Known,sp|P31256.1| RecName: Full=Homeobox protein Hox-B6; AltName: Full=XlHox-2.2 [Xenopus laevis],100.0
+deepseek_r1_ompT_binder_17,Novel,,0.0
+deepseek_r1_ompT_binder_18,Novel,,0.0
+deepseek_r1_ompT_binder_19,Novel,,0.0
+deepseek_r1_ompT_binder_2,Novel,,0.0
+deepseek_r1_ompT_binder_20,Novel,sp|P01320.1| RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; Contains: RecName: Full=Insulin A chain [Camelus dromedarius],65.52
+deepseek_r1_ompT_binder_21,Novel,,0.0
+deepseek_r1_ompT_binder_22,Novel,,0.0
+deepseek_r1_ompT_binder_23,Novel,,0.0
+deepseek_r1_ompT_binder_24,Novel,,0.0
+deepseek_r1_ompT_binder_25,Novel,sp|P09023.2| RecName: Full=Homeobox protein Hox-B6; AltName: Full=Homeobox protein Hox-2.2; AltName: Full=Homeobox protein MH-22A [Mus musculus],71.43
+deepseek_r1_ompT_binder_26,Novel,,0.0
+deepseek_r1_ompT_binder_27,Novel,,0.0
+deepseek_r1_ompT_binder_28,Known,sp|P31256.1| RecName: Full=Homeobox protein Hox-B6; AltName: Full=XlHox-2.2 [Xenopus laevis],93.75
+deepseek_r1_ompT_binder_29,Unknown (BLAST failed),BLAST analysis failed,0.0
+deepseek_r1_ompT_binder_3,Novel,,0.0
+deepseek_r1_ompT_binder_30,Unknown (BLAST failed),BLAST analysis failed,0.0
+deepseek_r1_ompT_binder_31,Unknown (BLAST failed),BLAST analysis failed,0.0
+deepseek_r1_ompT_binder_32,Unknown (BLAST failed),BLAST analysis failed,0.0
+deepseek_r1_ompT_binder_33,Novel,,0.0
+deepseek_r1_ompT_binder_34,Unknown (BLAST failed),BLAST analysis failed,0.0
+deepseek_r1_ompT_binder_35,Unknown (BLAST failed),BLAST analysis failed,0.0
+deepseek_r1_ompT_binder_36,Novel,,0.0
+deepseek_r1_ompT_binder_37,Novel,sp|Q07747.1| RecName: Full=Probable aryl-alcohol dehydrogenase AAD4 [Saccharomyces cerevisiae S288C],47.06
+deepseek_r1_ompT_binder_38,Novel,,0.0
+deepseek_r1_ompT_binder_39,Unknown (BLAST failed),BLAST analysis failed,0.0
+deepseek_r1_ompT_binder_4,Unknown (BLAST failed),BLAST analysis failed,0.0

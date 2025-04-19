@@ -1,0 +1,37 @@
+Monte Carlo Docking Results
+==========================
+
+Receptor: ompT_cleaned.pdb
+Ligand: pdb_files/deepseek/deepseek_r1_ompT_binder_14_unrelaxed_rank_005_alphafold2_ptm_model_4_seed_000.pdb
+
+Initial score: 40802.69 REU
+Final score: 40786.67 REU
+Score improvement: 16.02 REU
+
+Receptor score: -350.86 REU
+Ligand score: 168.33 REU
+Binding energy: 40969.20 REU
+
+Binding Energy Interpretation:
+Unfavorable binding (> 10 REU)
+
+Interface Analysis:
+Number of interface contacts: 480
+Receptor residues in interface: 91
+Ligand residues in interface: 21
+
+Interface Residues:
+Receptor: 25, 26, 27, 28, 29, 30, 31, 32, 33, 36, 37, 38, 39, 40, 41, 42, 44, 112, 114, 133, 134, 135, 136, 137, 138, 139, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284
+Ligand: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 23
+
+Closest Contacts:
+1. SER 223 - LYS 5: 0.10 Å
+2. GLU 205 - PHE 10: 0.20 Å
+3. GLY 281 - LEU 3: 0.24 Å
+4. SER 206 - LEU 7: 0.33 Å
+5. VAL 225 - LEU 6: 0.34 Å
+6. TYR 275 - LYS 5: 0.39 Å
+7. LYS 226 - LEU 9: 0.44 Å
+8. SER 223 - VAL 4: 0.44 Å
+9. GLY 261 - LEU 6: 0.44 Å
+10. LYS 224 - LYS 5: 0.46 Å

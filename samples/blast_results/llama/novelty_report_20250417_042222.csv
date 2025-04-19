@@ -1,0 +1,11 @@
+Sequence ID,Novelty Status,Top Hit,Top Identity (%)
+llama3_ompT_binder_1,Novel,,0.0
+llama3_ompT_binder_10,Novel,sp|P43241.1| RecName: Full=Homeobox protein CDX-2; AltName: Full=Caudal-type homeobox protein 2 [Mus musculus],70.0
+llama3_ompT_binder_100,Novel,sp|Q5TM84.1| RecName: Full=Homeobox protein NANOG; AltName: Full=Homeobox transcription factor Nanog [Macaca fascicularis],45.0
+llama3_ompT_binder_11,Novel,,0.0
+llama3_ompT_binder_12,Novel,,0.0
+llama3_ompT_binder_13,Novel,,0.0
+llama3_ompT_binder_14,Unknown (BLAST failed),BLAST analysis failed,0.0
+llama3_ompT_binder_15,Novel,sp|Q5SLL0.1| RecName: Full=Argininosuccinate lyase; Short=ASAL; AltName: Full=Arginosuccinase [Thermus thermophilus HB8],37.5
+llama3_ompT_binder_16,Novel,,0.0
+llama3_ompT_binder_17,Novel,sp|P16241.5| RecName: Full=POU domain protein CF1A; AltName: Full=Chorion factor 1A; Short=CF1-A; AltName: Full=Protein drifter; AltName: Full=Ventral veins lacking protein [Drosophila melanogaster],40.0

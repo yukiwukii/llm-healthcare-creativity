@@ -1,0 +1,88 @@
+Sequence ID,Novelty Status,Top Hit,Top Identity (%)
+deepseek_r1_ompT_binder_1,Novel,,0.0
+deepseek_r1_ompT_binder_10,Novel,,0.0
+deepseek_r1_ompT_binder_100,Novel,,0.0
+deepseek_r1_ompT_binder_11,Novel,,0.0
+deepseek_r1_ompT_binder_12,Novel,,0.0
+deepseek_r1_ompT_binder_13,Known,sp|P31256.1| RecName: Full=Homeobox protein Hox-B6; AltName: Full=XlHox-2.2 [Xenopus laevis],87.5
+deepseek_r1_ompT_binder_14,Novel,,0.0
+deepseek_r1_ompT_binder_16,Known,sp|P31256.1| RecName: Full=Homeobox protein Hox-B6; AltName: Full=XlHox-2.2 [Xenopus laevis],100.0
+deepseek_r1_ompT_binder_17,Novel,,0.0
+deepseek_r1_ompT_binder_18,Novel,,0.0
+deepseek_r1_ompT_binder_19,Novel,,0.0
+deepseek_r1_ompT_binder_2,Novel,,0.0
+deepseek_r1_ompT_binder_20,Novel,sp|P01320.1| RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; Contains: RecName: Full=Insulin A chain [Camelus dromedarius],65.52
+deepseek_r1_ompT_binder_21,Novel,,0.0
+deepseek_r1_ompT_binder_22,Novel,,0.0
+deepseek_r1_ompT_binder_23,Novel,,0.0
+deepseek_r1_ompT_binder_24,Novel,,0.0
+deepseek_r1_ompT_binder_25,Novel,sp|P09023.2| RecName: Full=Homeobox protein Hox-B6; AltName: Full=Homeobox protein Hox-2.2; AltName: Full=Homeobox protein MH-22A [Mus musculus],71.43
+deepseek_r1_ompT_binder_26,Novel,,0.0
+deepseek_r1_ompT_binder_27,Novel,,0.0
+deepseek_r1_ompT_binder_28,Known,sp|P31256.1| RecName: Full=Homeobox protein Hox-B6; AltName: Full=XlHox-2.2 [Xenopus laevis],93.75
+deepseek_r1_ompT_binder_3,Novel,,0.0
+deepseek_r1_ompT_binder_33,Novel,,0.0
+deepseek_r1_ompT_binder_36,Novel,,0.0
+deepseek_r1_ompT_binder_37,Novel,sp|Q07747.1| RecName: Full=Probable aryl-alcohol dehydrogenase AAD4 [Saccharomyces cerevisiae S288C],47.06
+deepseek_r1_ompT_binder_38,Novel,,0.0
+deepseek_r1_ompT_binder_41,Novel,,0.0
+deepseek_r1_ompT_binder_42,Known,sp|P50208.1| RecName: Full=Homeobox protein Hox-A5 [Ambystoma mexicanum],100.0
+deepseek_r1_ompT_binder_43,Novel,,0.0
+deepseek_r1_ompT_binder_46,Novel,sp|P01316.1| RecName: Full=Insulin; Contains: RecName: Full=Insulin B chain; Contains: RecName: Full=Insulin A chain [Elephas maximus],70.83
+deepseek_r1_ompT_binder_49,Novel,,0.0
+deepseek_r1_ompT_binder_5,Novel,sp|P31264.2| RecName: Full=Homeotic protein proboscipedia [Drosophila melanogaster],35.71
+deepseek_r1_ompT_binder_50,Novel,,0.0
+deepseek_r1_ompT_binder_52,Novel,,0.0
+deepseek_r1_ompT_binder_53,Novel,,0.0
+deepseek_r1_ompT_binder_55,Novel,,0.0
+deepseek_r1_ompT_binder_56,Novel,,0.0
+deepseek_r1_ompT_binder_57,Novel,,0.0
+deepseek_r1_ompT_binder_58,Novel,sp|O61787.2| RecName: Full=Innexin-16; AltName: Full=Protein opu-16 [Caenorhabditis elegans],42.86
+deepseek_r1_ompT_binder_65,Novel,sp|P29156.1| RecName: Full=Uncharacterized 42.1 kDa protein in intracellular alkaline protease 3'region [Shouchella clausii],45.0
+deepseek_r1_ompT_binder_66,Known,sp|P29555.2| RecName: Full=Homeobox protein abdominal-A [Drosophila melanogaster],81.25
+deepseek_r1_ompT_binder_67,Novel,,0.0
+deepseek_r1_ompT_binder_68,Novel,,0.0
+deepseek_r1_ompT_binder_7,Novel,,0.0
+deepseek_r1_ompT_binder_70,Novel,,0.0
+deepseek_r1_ompT_binder_71,Known,sp|P31256.1| RecName: Full=Homeobox protein Hox-B6; AltName: Full=XlHox-2.2 [Xenopus laevis],100.0
+deepseek_r1_ompT_binder_72,Known,sp|Q8PVR7.1| RecName: Full=DNA ligase 1; AltName: Full=Polydeoxyribonucleotide synthase [ATP] 1 [Methanosarcina mazei Go1],87.5
+deepseek_r1_ompT_binder_73,Novel,,0.0
+deepseek_r1_ompT_binder_74,Novel,,0.0
+deepseek_r1_ompT_binder_75,Novel,,0.0
+deepseek_r1_ompT_binder_76,Novel,sp|P07548.2| RecName: Full=Homeotic protein deformed [Drosophila melanogaster],75.0
+deepseek_r1_ompT_binder_77,Novel,,0.0
+deepseek_r1_ompT_binder_78,Known,sp|P07548.2| RecName: Full=Homeotic protein deformed [Drosophila melanogaster],81.25
+deepseek_r1_ompT_binder_8,Novel,,0.0
+deepseek_r1_ompT_binder_80,Known,sp|P31256.1| RecName: Full=Homeobox protein Hox-B6; AltName: Full=XlHox-2.2 [Xenopus laevis],100.0
+deepseek_r1_ompT_binder_81,Novel,,0.0
+deepseek_r1_ompT_binder_82,Novel,,0.0
+deepseek_r1_ompT_binder_85,Novel,,0.0
+deepseek_r1_ompT_binder_86,Known,sp|P31256.1| RecName: Full=Homeobox protein Hox-B6; AltName: Full=XlHox-2.2 [Xenopus laevis],100.0
+deepseek_r1_ompT_binder_87,Novel,sp|O42503.1| RecName: Full=Homeobox protein Hox-C8a; AltName: Full=FrHOXC-8 [Takifugu rubripes],69.23
+deepseek_r1_ompT_binder_89,Novel,,0.0
+deepseek_r1_ompT_binder_9,Known,sp|P31256.1| RecName: Full=Homeobox protein Hox-B6; AltName: Full=XlHox-2.2 [Xenopus laevis],87.5
+deepseek_r1_ompT_binder_91,Novel,sp|Q8AWY9.1| RecName: Full=Homeobox protein Hox-B7a; Short=Hox-B7 [Danio rerio],73.91
+deepseek_r1_ompT_binder_92,Novel,,0.0
+deepseek_r1_ompT_binder_93,Novel,sp|P52949.1| RecName: Full=Homeobox protein Hox-A5; AltName: Full=Homeobox protein Hox-1.3 [Rattus norvegicus],72.22
+deepseek_r1_ompT_binder_94,Novel,sp|Q2YCK3.1| RecName: Full=Probable glycine dehydrogenase (decarboxylating) subunit 2; AltName: Full=Glycine cleavage system P-protein subunit 2; AltName: Full=Glycine decarboxylase subunit 2; AltName: Full=Glycine dehydrogenase (aminomethyl-transferring) subunit 2 [Nitrosospira multiformis ATCC 25196],40.62
+deepseek_r1_ompT_binder_97,Novel,,0.0
+deepseek_r1_ompT_binder_15,Novel,,0.0
+deepseek_r1_ompT_binder_29,Novel,sp|J8D1N4.1| RecName: Full=Lamassu protein LmuA; AltName: Full=Putative nuclease LmuA [Bacillus cereus VD014],38.46
+deepseek_r1_ompT_binder_31,Known,sp|P31256.1| RecName: Full=Homeobox protein Hox-B6; AltName: Full=XlHox-2.2 [Xenopus laevis],100.0
+deepseek_r1_ompT_binder_35,Novel,,0.0
+deepseek_r1_ompT_binder_44,Novel,,0.0
+deepseek_r1_ompT_binder_45,Novel,,0.0
+deepseek_r1_ompT_binder_61,Novel,,0.0
+deepseek_r1_ompT_binder_69,Novel,,0.0
+deepseek_r1_ompT_binder_79,Novel,,0.0
+deepseek_r1_ompT_binder_83,Known,sp|P50208.1| RecName: Full=Homeobox protein Hox-A5 [Ambystoma mexicanum],100.0
+deepseek_r1_ompT_binder_30,Unknown (BLAST failed),BLAST analysis failed,0.0
+deepseek_r1_ompT_binder_32,Unknown (BLAST failed),BLAST analysis failed,0.0
+deepseek_r1_ompT_binder_34,Unknown (BLAST failed),BLAST analysis failed,0.0
+deepseek_r1_ompT_binder_39,Novel,,0.0
+deepseek_r1_ompT_binder_4,Novel,,0.0
+deepseek_r1_ompT_binder_40,Unknown (BLAST failed),BLAST analysis failed,0.0
+deepseek_r1_ompT_binder_47,Unknown (BLAST failed),BLAST analysis failed,0.0
+deepseek_r1_ompT_binder_48,Unknown (BLAST failed),BLAST analysis failed,0.0
+deepseek_r1_ompT_binder_51,Novel,,0.0
+deepseek_r1_ompT_binder_54,Novel,,0.0

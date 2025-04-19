@@ -1,0 +1,8 @@
+Novelty Analysis Summary
+=======================
+
+Total sequences analyzed: 100
+Novel sequences: 100 (100.0%)
+Known sequences: 0 (0.0%)
+
+Detailed results saved to: ./llama/novelty_report.csv

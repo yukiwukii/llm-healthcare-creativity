@@ -1,0 +1,37 @@
+Monte Carlo Docking Results
+==========================
+
+Receptor: ompT_cleaned.pdb
+Ligand: pdb_files/deepseek/deepseek_r1_ompT_binder_44_unrelaxed_rank_005_alphafold2_ptm_model_4_seed_000.pdb
+
+Initial score: 39089.28 REU
+Final score: 39073.42 REU
+Score improvement: 15.86 REU
+
+Receptor score: -350.86 REU
+Ligand score: -15.61 REU
+Binding energy: 39439.88 REU
+
+Binding Energy Interpretation:
+Unfavorable binding (> 10 REU)
+
+Interface Analysis:
+Number of interface contacts: 439
+Receptor residues in interface: 71
+Ligand residues in interface: 26
+
+Interface Residues:
+Receptor: 25, 26, 27, 28, 112, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 253, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 266, 275, 277, 278, 280, 281, 282, 283, 284
+Ligand: 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47
+
+Closest Contacts:
+1. SER 206 - TRP 31: 0.27 Å
+2. TYR 200 - LYS 43: 0.36 Å
+3. TRP 203 - LYS 36: 0.40 Å
+4. GLN 228 - LEU 38: 0.52 Å
+5. ASP 227 - LEU 38: 0.57 Å
+6. GLY 202 - ALA 40: 0.58 Å
+7. ILE 282 - TRP 31: 0.58 Å
+8. ASN 229 - ILE 42: 0.58 Å
+9. GLU 205 - VAL 35: 0.59 Å
+10. ILE 181 - LYS 43: 0.61 Å

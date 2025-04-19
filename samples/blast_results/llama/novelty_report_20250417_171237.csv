@@ -1,0 +1,101 @@
+Sequence ID,Novelty Status,Top Hit,Top Identity (%)
+llama3_ompT_binder_1,Novel,,0.0
+llama3_ompT_binder_10,Novel,sp|P43241.1| RecName: Full=Homeobox protein CDX-2; AltName: Full=Caudal-type homeobox protein 2 [Mus musculus],70.0
+llama3_ompT_binder_100,Novel,sp|Q5TM84.1| RecName: Full=Homeobox protein NANOG; AltName: Full=Homeobox transcription factor Nanog [Macaca fascicularis],45.0
+llama3_ompT_binder_11,Novel,,0.0
+llama3_ompT_binder_12,Novel,,0.0
+llama3_ompT_binder_13,Novel,,0.0
+llama3_ompT_binder_15,Novel,sp|Q5SLL0.1| RecName: Full=Argininosuccinate lyase; Short=ASAL; AltName: Full=Arginosuccinase [Thermus thermophilus HB8],37.5
+llama3_ompT_binder_16,Novel,,0.0
+llama3_ompT_binder_17,Novel,sp|P16241.5| RecName: Full=POU domain protein CF1A; AltName: Full=Chorion factor 1A; Short=CF1-A; AltName: Full=Protein drifter; AltName: Full=Ventral veins lacking protein [Drosophila melanogaster],40.0
+llama3_ompT_binder_18,Novel,,0.0
+llama3_ompT_binder_19,Novel,sp|O18400.2| RecName: Full=Pituitary homeobox homolog Ptx1; Short=D-PTX1 [Drosophila melanogaster],47.06
+llama3_ompT_binder_2,Known,sp|P09077.5| RecName: Full=Homeotic protein Sex combs reduced [Drosophila melanogaster],82.35
+llama3_ompT_binder_20,Novel,,0.0
+llama3_ompT_binder_21,Novel,,0.0
+llama3_ompT_binder_22,Novel,sp|Q9U794.1| RecName: Full=Proteasome subunit beta type-1; AltName: Full=20S proteasome subunit beta-6 [Trypanosoma brucei brucei],50.0
+llama3_ompT_binder_23,Novel,,0.0
+llama3_ompT_binder_24,Novel,sp|G0LET5.1| RecName: Full=Cytochrome P450 monooxygenase BOA7; AltName: Full=Botcinic acid biosynthesis cluster B protein 7 [Botrytis cinerea B05.10],50.0
+llama3_ompT_binder_25,Novel,,0.0
+llama3_ompT_binder_27,Novel,,0.0
+llama3_ompT_binder_31,Novel,sp|P03304.1| RecName: Full=Genome polyprotein; Contains: RecName: Full=Leader protein; Short=L; Contains: RecName: Full=Capsid protein VP0; AltName: Full=VP4-VP2; Contains: RecName: Full=Capsid protein VP4; AltName: Full=P1A; AltName: Full=Rho; AltName: Full=Virion protein 4; Contains: RecName: Full=Capsid protein VP2; AltName: Full=Beta; AltName: Full=P1B; AltName: Full=Virion protein 2; Contains: RecName: Full=Capsid protein VP3; AltName: Full=Gamma; AltName: Full=P1C; AltName: Full=Virion protein 3; Contains: RecName: Full=Capsid protein VP1; AltName: Full=Alpha; AltName: Full=P1D; AltName: Full=Virion protein 1; Contains: RecName: Full=Protein 2A; Short=P2A; AltName: Full=G; Contains: RecName: Full=Protein 2B; Short=I; Short=P2B; Contains: RecName: Full=Protein 2C; Short=C; Short=P2C; Contains: RecName: Full=Protein 3A; Short=P3A; Contains: RecName: Full=VPg; Short=P3B; AltName: Full=H; AltName: Full=Protein 3B; Contains: RecName: Full=Protease 3C; Short=P3C; AltName: Full=Picornain 3C; AltName: Full=p22; Contains: RecName: Full=RNA-directed RNA polymerase; Short=RdRp; AltName: Full=3D polymerase; Short=3Dpol; AltName: Full=E; AltName: Full=Protein 3D; Short=3D; Flags: Precursor [Encephalomyocarditis virus],57.14
+llama3_ompT_binder_32,Novel,,0.0
+llama3_ompT_binder_33,Novel,,0.0
+llama3_ompT_binder_34,Novel,,0.0
+llama3_ompT_binder_36,Novel,sp|P75472.1| RecName: Full=Uncharacterized protein MPN_308 [Mycoplasmoides pneumoniae M129],50.0
+llama3_ompT_binder_38,Novel,sp|Q9LT15.1| RecName: Full=Sugar transport protein 10; Short=AtSTP10; AltName: Full=D-glucose-H(+) symport protein STP10; AltName: Full=D-glucose-proton symporter STP10; AltName: Full=Hexose transporter 10 [Arabidopsis thaliana],58.33
+llama3_ompT_binder_39,Novel,,0.0
+llama3_ompT_binder_4,Novel,,0.0
+llama3_ompT_binder_40,Novel,,0.0
+llama3_ompT_binder_41,Novel,,0.0
+llama3_ompT_binder_44,Novel,,0.0
+llama3_ompT_binder_45,Novel,,0.0
+llama3_ompT_binder_46,Novel,,0.0
+llama3_ompT_binder_49,Novel,,0.0
+llama3_ompT_binder_5,Novel,,0.0
+llama3_ompT_binder_50,Novel,,0.0
+llama3_ompT_binder_51,Novel,sp|Q0D034.1| RecName: Full=Nonribosomal peptide synthetase atqA; AltName: Full=Didemethylasterriquinone synthetase [Aspergillus terreus NIH2624],70.0
+llama3_ompT_binder_53,Novel,,0.0
+llama3_ompT_binder_54,Novel,,0.0
+llama3_ompT_binder_55,Novel,,0.0
+llama3_ompT_binder_64,Novel,,0.0
+llama3_ompT_binder_65,Novel,,0.0
+llama3_ompT_binder_66,Novel,,0.0
+llama3_ompT_binder_67,Novel,,0.0
+llama3_ompT_binder_14,Novel,,0.0
+llama3_ompT_binder_28,Novel,,0.0
+llama3_ompT_binder_35,Novel,,0.0
+llama3_ompT_binder_42,Novel,,0.0
+llama3_ompT_binder_47,Novel,sp|Q7S936.1| RecName: Full=Conidial surface nicotinamide adenine dinucleotide glycohydrolase; Short=NAD(P)ase; Short=NADase; AltName: Full=Diphosphopyridine nucleotidase; Short=DPNase; AltName: Full=NAD(+) hydrolase; AltName: Full=NADP(+) hydrolase; Flags: Precursor [Neurospora crassa OR74A],53.85
+llama3_ompT_binder_48,Novel,,0.0
+llama3_ompT_binder_52,Novel,sp|E5AE43.1| RecName: Full=Lipid-translocating exporter-like protein RTA1; AltName: Full=Phomenoic acid biosynthesis cluster protein RTA1 [Plenodomus lingam JN3],46.67
+llama3_ompT_binder_56,Novel,,0.0
+llama3_ompT_binder_57,Novel,sp|P07548.2| RecName: Full=Homeotic protein deformed [Drosophila melanogaster],50.0
+llama3_ompT_binder_6,Novel,,0.0
+llama3_ompT_binder_61,Novel,,0.0
+llama3_ompT_binder_62,Novel,,0.0
+llama3_ompT_binder_71,Novel,,0.0
+llama3_ompT_binder_72,Novel,,0.0
+llama3_ompT_binder_73,Novel,sp|P09087.3| RecName: Full=Homeobox protein abdominal-B; AltName: Full=Infraabdominal 7; Short=IAB-7; AltName: Full=P3; AltName: Full=PH189 [Drosophila melanogaster],60.87
+llama3_ompT_binder_74,Novel,,0.0
+llama3_ompT_binder_75,Novel,,0.0
+llama3_ompT_binder_76,Novel,,0.0
+llama3_ompT_binder_77,Novel,,0.0
+llama3_ompT_binder_78,Novel,sp|K7FSQ4.1| RecName: Full=Epithelial sodium channel subunit gamma; AltName: Full=Amiloride-sensitive sodium channel subunit gamma [Pelodiscus sinensis],52.63
+llama3_ompT_binder_79,Novel,"sp|Q8CHC4.3| RecName: Full=Synaptojanin-1; AltName: Full=Synaptic inositol 1,4,5-trisphosphate 5-phosphatase 1 [Mus musculus]",77.78
+llama3_ompT_binder_8,Novel,,0.0
+llama3_ompT_binder_80,Novel,,0.0
+llama3_ompT_binder_81,Novel,,0.0
+llama3_ompT_binder_82,Novel,,0.0
+llama3_ompT_binder_84,Novel,,0.0
+llama3_ompT_binder_85,Novel,,0.0
+llama3_ompT_binder_86,Novel,,0.0
+llama3_ompT_binder_89,Novel,,0.0
+llama3_ompT_binder_9,Novel,sp|P40020.3| RecName: Full=Factor interacting with REF2; AltName: Full=PAP1-interacting protein; AltName: Full=Polymerase-interacting protein 1 [Saccharomyces cerevisiae S288C],50.0
+llama3_ompT_binder_92,Novel,,0.0
+llama3_ompT_binder_26,Unknown (BLAST failed),BLAST analysis failed,0.0
+llama3_ompT_binder_29,Unknown (BLAST failed),BLAST analysis failed,0.0
+llama3_ompT_binder_3,Unknown (BLAST failed),BLAST analysis failed,0.0
+llama3_ompT_binder_30,Unknown (BLAST failed),BLAST analysis failed,0.0
+llama3_ompT_binder_37,Unknown (BLAST failed),BLAST analysis failed,0.0
+llama3_ompT_binder_43,Unknown (BLAST failed),BLAST analysis failed,0.0
+llama3_ompT_binder_58,Unknown (BLAST failed),BLAST analysis failed,0.0
+llama3_ompT_binder_59,Unknown (BLAST failed),BLAST analysis failed,0.0
+llama3_ompT_binder_60,Unknown (BLAST failed),BLAST analysis failed,0.0
+llama3_ompT_binder_63,Unknown (BLAST failed),BLAST analysis failed,0.0
+llama3_ompT_binder_68,Unknown (BLAST failed),BLAST analysis failed,0.0
+llama3_ompT_binder_69,Unknown (BLAST failed),BLAST analysis failed,0.0
+llama3_ompT_binder_7,Unknown (BLAST failed),BLAST analysis failed,0.0
+llama3_ompT_binder_70,Unknown (BLAST failed),BLAST analysis failed,0.0
+llama3_ompT_binder_83,Novel,,0.0
+llama3_ompT_binder_87,Novel,,0.0
+llama3_ompT_binder_88,Unknown (BLAST failed),BLAST analysis failed,0.0
+llama3_ompT_binder_90,Unknown (BLAST failed),BLAST analysis failed,0.0
+llama3_ompT_binder_91,Unknown (BLAST failed),BLAST analysis failed,0.0
+llama3_ompT_binder_93,Unknown (BLAST failed),BLAST analysis failed,0.0
+llama3_ompT_binder_94,Novel,,0.0
+llama3_ompT_binder_95,Novel,,0.0
+llama3_ompT_binder_96,Unknown (BLAST failed),BLAST analysis failed,0.0
+llama3_ompT_binder_97,Novel,sp|Q6GH45.1| RecName: Full=Phosphatidylglycerol lysyltransferase; AltName: Full=Lysylphosphatidylglycerol synthase; Short=LPG synthase; AltName: Full=Multiple peptide resistance factor [Staphylococcus aureus subsp. aureus MRSA252],50.0
+llama3_ompT_binder_98,Novel,sp|Q9P9T5.1| RecName: Full=Uncharacterized protein XF_1569/XF_1674 [Xylella fastidiosa 9a5c],53.33
+llama3_ompT_binder_99,Unknown (BLAST failed),BLAST analysis failed,0.0

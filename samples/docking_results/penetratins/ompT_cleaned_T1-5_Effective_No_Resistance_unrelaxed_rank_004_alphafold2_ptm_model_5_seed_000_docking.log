@@ -1,0 +1,26 @@
+[2025-04-11 12:41:02] Starting docking of ompT_cleaned with T1-5_Effective_No_Resistance_unrelaxed_rank_004_alphafold2_ptm_model_5_seed_000
+[2025-04-11 12:41:02] Importing PyRosetta modules
+[2025-04-11 12:41:02] Initializing PyRosetta
+[2025-04-11 12:41:02] Loading receptor and ligand
+[2025-04-11 12:41:02] Loaded receptor (301 residues) and ligand (16 residues)
+[2025-04-11 12:41:02] Creating score function
+[2025-04-11 12:41:02] Score function created
+[2025-04-11 12:41:02] Creating merged PDB file
+[2025-04-11 12:41:02] Loading merged structure
+[2025-04-11 12:41:02] Merged structure loaded with 317 residues
+[2025-04-11 12:41:02] Initial complex score: 6075.81 REU
+[2025-04-11 12:41:02] Setting up Monte Carlo docking protocol
+[2025-04-11 12:41:02] Running Monte Carlo docking - this may take some time
+[2025-04-11 12:41:16] Monte Carlo docking completed
+[2025-04-11 12:41:16] Final complex score: 6060.44 REU
+[2025-04-11 12:41:16] Score improvement: 15.38 REU
+[2025-04-11 12:41:16] Saved docked structure as large_docking_results/penetratins/ompT_cleaned_T1-5_Effective_No_Resistance_unrelaxed_rank_004_alphafold2_ptm_model_5_seed_000_docked.pdb
+[2025-04-11 12:41:16] Receptor score: -350.86 REU
+[2025-04-11 12:41:16] Ligand score: 7.88 REU
+[2025-04-11 12:41:16] Binding energy: 6403.41 REU
+[2025-04-11 12:41:16] Analyzing interface
+[2025-04-11 12:41:26] Interface contacts: 111
+[2025-04-11 12:41:26] Receptor residues in interface: 46
+[2025-04-11 12:41:26] Ligand residues in interface: 8
+[2025-04-11 12:41:26] Docking report written to large_docking_results/penetratins/ompT_cleaned_T1-5_Effective_No_Resistance_unrelaxed_rank_004_alphafold2_ptm_model_5_seed_000_report.txt
+[2025-04-11 12:41:26] Docking analysis complete

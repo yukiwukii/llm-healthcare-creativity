@@ -1,0 +1,37 @@
+Monte Carlo Docking Results
+==========================
+
+Receptor: ompT_cleaned.pdb
+Ligand: pdb_files/gemma/gemma2_ompT_binder_40_unrelaxed_rank_004_alphafold2_ptm_model_1_seed_000.pdb
+
+Initial score: 703.73 REU
+Final score: 688.51 REU
+Score improvement: 15.21 REU
+
+Receptor score: -350.86 REU
+Ligand score: 26.28 REU
+Binding energy: 1013.09 REU
+
+Binding Energy Interpretation:
+Unfavorable binding (> 10 REU)
+
+Interface Analysis:
+Number of interface contacts: 62
+Receptor residues in interface: 36
+Ligand residues in interface: 8
+
+Interface Residues:
+Receptor: 114, 115, 116, 131, 132, 133, 134, 135, 136, 138, 175, 176, 177, 178, 179, 180, 181, 200, 201, 202, 203, 204, 205, 206, 207, 208, 222, 223, 224, 225, 226, 227, 228, 259, 261, 262
+Ligand: 1, 2, 3, 4, 5, 6, 8, 9
+
+Closest Contacts:
+1. LYS 177 - ARG 5: 0.71 Å
+2. LYS 226 - LYS 2: 0.89 Å
+3. PRO 179 - ARG:NtermProteinFull 1: 0.92 Å
+4. ARG 175 - ARG 5: 2.65 Å
+5. LYS 224 - ARG 5: 2.88 Å
+6. GLU 205 - ARG 5: 3.08 Å
+7. TYR 180 - ARG:NtermProteinFull 1: 3.21 Å
+8. ASP 227 - LYS 2: 3.38 Å
+9. GLU 205 - LYS 2: 3.57 Å
+10. GLY 133 - ARG:NtermProteinFull 1: 3.74 Å

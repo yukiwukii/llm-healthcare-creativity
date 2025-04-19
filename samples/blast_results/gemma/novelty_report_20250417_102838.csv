@@ -1,0 +1,69 @@
+Sequence ID,Novelty Status,Top Hit,Top Identity (%)
+gemma2_ompT_binder_1,Novel,,0.0
+gemma2_ompT_binder_10,Novel,,0.0
+gemma2_ompT_binder_100,Novel,,0.0
+gemma2_ompT_binder_11,Novel,,0.0
+gemma2_ompT_binder_12,Novel,,0.0
+gemma2_ompT_binder_13,Novel,,0.0
+gemma2_ompT_binder_16,Novel,,0.0
+gemma2_ompT_binder_17,Novel,,0.0
+gemma2_ompT_binder_18,Novel,,0.0
+gemma2_ompT_binder_19,Novel,,0.0
+gemma2_ompT_binder_2,Novel,,0.0
+gemma2_ompT_binder_20,Novel,,0.0
+gemma2_ompT_binder_21,Novel,,0.0
+gemma2_ompT_binder_22,Novel,,0.0
+gemma2_ompT_binder_23,Novel,,0.0
+gemma2_ompT_binder_24,Novel,,0.0
+gemma2_ompT_binder_25,Novel,,0.0
+gemma2_ompT_binder_26,Novel,,0.0
+gemma2_ompT_binder_27,Novel,,0.0
+gemma2_ompT_binder_31,Novel,sp|Q63132.1| RecName: Full=Proto-oncogene tyrosine-protein kinase ROS; AltName: Full=Proto-oncogene c-Ros; AltName: Full=Proto-oncogene c-Ros-1; AltName: Full=Receptor tyrosine kinase c-ros oncogene 1; AltName: Full=c-Ros receptor tyrosine kinase; Flags: Precursor [Rattus norvegicus],60.0
+gemma2_ompT_binder_32,Novel,,0.0
+gemma2_ompT_binder_38,Novel,,0.0
+gemma2_ompT_binder_39,Novel,sp|A0AJL3.1| RecName: Full=Heptaprenylglyceryl phosphate synthase; Short=HepGP synthase; AltName: Full=Glycerol-1-phosphate heptaprenyltransferase [Listeria welshimeri serovar 6b str. SLCC5334],60.0
+gemma2_ompT_binder_4,Novel,,0.0
+gemma2_ompT_binder_43,Novel,sp|Q6FX42.1| RecName: Full=Serine/threonine-protein kinase MEC1; AltName: Full=ATR homolog; AltName: Full=DNA-damage checkpoint kinase MEC1; AltName: Full=Mitosis entry checkpoint protein 1 [Nakaseomyces glabratus CBS 138],50.0
+gemma2_ompT_binder_44,Novel,,0.0
+gemma2_ompT_binder_45,Novel,,0.0
+gemma2_ompT_binder_46,Novel,,0.0
+gemma2_ompT_binder_47,Novel,,0.0
+gemma2_ompT_binder_48,Novel,sp|Q92845.2| RecName: Full=Kinesin-associated protein 3; Short=KAP-3; Short=KAP3; AltName: Full=Smg GDS-associated protein [Homo sapiens],60.0
+gemma2_ompT_binder_49,Novel,,0.0
+gemma2_ompT_binder_5,Novel,,0.0
+gemma2_ompT_binder_50,Novel,,0.0
+gemma2_ompT_binder_51,Novel,,0.0
+gemma2_ompT_binder_52,Novel,,0.0
+gemma2_ompT_binder_53,Novel,,0.0
+gemma2_ompT_binder_61,Novel,,0.0
+gemma2_ompT_binder_62,Novel,,0.0
+gemma2_ompT_binder_63,Novel,,0.0
+gemma2_ompT_binder_64,Novel,,0.0
+gemma2_ompT_binder_65,Novel,,0.0
+gemma2_ompT_binder_66,Novel,,0.0
+gemma2_ompT_binder_67,Novel,,0.0
+gemma2_ompT_binder_68,Novel,,0.0
+gemma2_ompT_binder_69,Novel,,0.0
+gemma2_ompT_binder_7,Novel,sp|A6VE40.1| RecName: Full=Argininosuccinate lyase; Short=ASAL; AltName: Full=Arginosuccinase [Pseudomonas paraeruginosa PA7],66.67
+gemma2_ompT_binder_70,Novel,,0.0
+gemma2_ompT_binder_71,Novel,sp|P68874.1| RecName: Full=Gametocyte surface protein P230; Flags: Precursor [Plasmodium falciparum 3D7] >sp|P68875.1| RecName: Full=Gametocyte surface protein P230; Flags: Precursor [Plasmodium falciparum NF54],53.33
+gemma2_ompT_binder_72,Novel,,0.0
+gemma2_ompT_binder_73,Novel,,0.0
+gemma2_ompT_binder_74,Novel,,0.0
+gemma2_ompT_binder_75,Novel,,0.0
+gemma2_ompT_binder_76,Novel,,0.0
+gemma2_ompT_binder_14,Novel,sp|O69853.1| RecName: Full=Exopolysaccharide phosphotransferase SCO6023; AltName: Full=Stealth protein SCO6023 [Streptomyces coelicolor A3(2)],50.0
+gemma2_ompT_binder_15,Novel,sp|A0A144KPJ6.1| RecName: Full=Nonribosomal peptide synthetase TES; AltName: Full=Tentoxin synthase; Short=TES [Alternaria alternata],58.82
+gemma2_ompT_binder_28,Unknown (BLAST failed),BLAST analysis failed,0.0
+gemma2_ompT_binder_29,Unknown (BLAST failed),BLAST analysis failed,0.0
+gemma2_ompT_binder_3,Novel,,0.0
+gemma2_ompT_binder_30,Novel,,0.0
+gemma2_ompT_binder_33,Novel,,0.0
+gemma2_ompT_binder_34,Novel,,0.0
+gemma2_ompT_binder_35,Novel,,0.0
+gemma2_ompT_binder_36,Novel,,0.0
+gemma2_ompT_binder_37,Unknown (BLAST failed),BLAST analysis failed,0.0
+gemma2_ompT_binder_40,Novel,,0.0
+gemma2_ompT_binder_41,Novel,sp|Q9Y935.2| RecName: Full=Probable cytosol aminopeptidase; AltName: Full=Leucine aminopeptidase; Short=LAP; AltName: Full=Leucyl aminopeptidase [Aeropyrum pernix K1],63.64
+gemma2_ompT_binder_42,Novel,,0.0
+gemma2_ompT_binder_54,Novel,,0.0

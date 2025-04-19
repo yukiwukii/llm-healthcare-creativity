@@ -1,0 +1,6 @@
+Sequence ID,Novelty Status,Top Hit,Top Identity (%)
+llama3_ompT_binder_1,Novel,,0.0
+llama3_ompT_binder_10,Novel,sp|P43241.1| RecName: Full=Homeobox protein CDX-2; AltName: Full=Caudal-type homeobox protein 2 [Mus musculus],70.0
+llama3_ompT_binder_100,Novel,sp|Q5TM84.1| RecName: Full=Homeobox protein NANOG; AltName: Full=Homeobox transcription factor Nanog [Macaca fascicularis],45.0
+llama3_ompT_binder_11,Novel,,0.0
+llama3_ompT_binder_12,Novel,,0.0

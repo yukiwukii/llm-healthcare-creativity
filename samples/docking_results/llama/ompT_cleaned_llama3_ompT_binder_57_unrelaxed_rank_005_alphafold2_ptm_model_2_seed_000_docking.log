@@ -1,0 +1,26 @@
+[2025-04-09 04:05:35] Starting docking of ompT_cleaned with llama3_ompT_binder_57_unrelaxed_rank_005_alphafold2_ptm_model_2_seed_000
+[2025-04-09 04:05:35] Importing PyRosetta modules
+[2025-04-09 04:05:35] Initializing PyRosetta
+[2025-04-09 04:05:35] Loading receptor and ligand
+[2025-04-09 04:05:35] Loaded receptor (301 residues) and ligand (18 residues)
+[2025-04-09 04:05:35] Creating score function
+[2025-04-09 04:05:35] Score function created
+[2025-04-09 04:05:35] Creating merged PDB file
+[2025-04-09 04:05:35] Loading merged structure
+[2025-04-09 04:05:35] Merged structure loaded with 319 residues
+[2025-04-09 04:05:35] Initial complex score: 169.91 REU
+[2025-04-09 04:05:35] Setting up Monte Carlo docking protocol
+[2025-04-09 04:05:35] Running Monte Carlo docking - this may take some time
+[2025-04-09 04:05:49] Monte Carlo docking completed
+[2025-04-09 04:05:49] Final complex score: 153.80 REU
+[2025-04-09 04:05:49] Score improvement: 16.12 REU
+[2025-04-09 04:05:49] Saved docked structure as large_docking_results/llama/ompT_cleaned_llama3_ompT_binder_57_unrelaxed_rank_005_alphafold2_ptm_model_2_seed_000_docked.pdb
+[2025-04-09 04:05:49] Receptor score: -350.86 REU
+[2025-04-09 04:05:49] Ligand score: -10.84 REU
+[2025-04-09 04:05:49] Binding energy: 515.49 REU
+[2025-04-09 04:05:49] Analyzing interface
+[2025-04-09 04:06:00] Interface contacts: 62
+[2025-04-09 04:06:00] Receptor residues in interface: 28
+[2025-04-09 04:06:00] Ligand residues in interface: 9
+[2025-04-09 04:06:00] Docking report written to large_docking_results/llama/ompT_cleaned_llama3_ompT_binder_57_unrelaxed_rank_005_alphafold2_ptm_model_2_seed_000_report.txt
+[2025-04-09 04:06:00] Docking analysis complete

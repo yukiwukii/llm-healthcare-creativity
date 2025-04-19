@@ -1,0 +1,10 @@
+Short Protein Novelty Analysis Summary
+===================================
+
+Total sequences analyzed: 87
+Novel sequences: 68 (78.16%)
+Known sequences: 13 (14.94%)
+Unknown (BLAST failed): 6 (6.9%)
+
+Identity threshold: 85%
+Detailed results saved to: ./deepseek/novelty_report_20250417_181709.csv

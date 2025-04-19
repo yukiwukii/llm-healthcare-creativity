@@ -1,0 +1,37 @@
+Monte Carlo Docking Results
+==========================
+
+Receptor: ompT_cleaned.pdb
+Ligand: pdb_files/penetratins/T1-5_Effective_No_Resistance_unrelaxed_rank_003_alphafold2_ptm_model_1_seed_000.pdb
+
+Initial score: -352.61 REU
+Final score: -368.35 REU
+Score improvement: 15.74 REU
+
+Receptor score: -350.86 REU
+Ligand score: -0.05 REU
+Binding energy: -17.45 REU
+
+Binding Energy Interpretation:
+Very strong binding (< -10 REU)
+
+Interface Analysis:
+Number of interface contacts: 51
+Receptor residues in interface: 28
+Ligand residues in interface: 8
+
+Interface Residues:
+Receptor: 66, 112, 114, 115, 116, 132, 133, 134, 136, 175, 176, 177, 178, 179, 180, 201, 202, 203, 204, 205, 206, 222, 224, 225, 226, 227, 228, 266
+Ligand: 1, 2, 3, 5, 6, 8, 9, 13
+
+Closest Contacts:
+1. TRP 203 - GLN 2: 2.04 Å
+2. LYS 177 - ILE 5: 2.68 Å
+3. GLU 205 - GLN 2: 3.19 Å
+4. PRO 179 - GLN 2: 3.20 Å
+5. VAL 204 - GLN 2: 3.89 Å
+6. LYS 224 - TRP 9: 3.97 Å
+7. LYS 177 - GLN 2: 4.04 Å
+8. TYR 134 - ILE 5: 4.18 Å
+9. ILE 116 - ARG:NtermProteinFull 1: 4.39 Å
+10. TYR 134 - GLN 2: 4.85 Å

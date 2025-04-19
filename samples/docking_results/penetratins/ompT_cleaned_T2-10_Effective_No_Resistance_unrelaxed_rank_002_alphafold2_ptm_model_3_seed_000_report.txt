@@ -1,0 +1,37 @@
+Monte Carlo Docking Results
+==========================
+
+Receptor: ompT_cleaned.pdb
+Ligand: pdb_files/penetratins/T2-10_Effective_No_Resistance_unrelaxed_rank_002_alphafold2_ptm_model_3_seed_000.pdb
+
+Initial score: 1793.49 REU
+Final score: 1777.41 REU
+Score improvement: 16.07 REU
+
+Receptor score: -350.86 REU
+Ligand score: 12.88 REU
+Binding energy: 2115.39 REU
+
+Binding Energy Interpretation:
+Unfavorable binding (> 10 REU)
+
+Interface Analysis:
+Number of interface contacts: 68
+Receptor residues in interface: 32
+Ligand residues in interface: 8
+
+Interface Residues:
+Receptor: 134, 136, 175, 177, 178, 179, 202, 203, 204, 205, 206, 207, 208, 209, 221, 222, 223, 224, 225, 226, 227, 228, 259, 260, 261, 262, 263, 264, 266, 275, 277, 278
+Ligand: 8, 9, 11, 12, 13, 14, 15, 16
+
+Closest Contacts:
+1. LYS 226 - ARG:CtermProteinFull 16: 0.38 Å
+2. LYS 224 - LYS 15: 1.30 Å
+3. LYS 226 - LYS 15: 1.62 Å
+4. GLU 205 - TRP 12: 1.74 Å
+5. LYS 177 - TRP 12: 2.59 Å
+6. ASP 227 - ARG:CtermProteinFull 16: 2.74 Å
+7. LYS 224 - TRP 12: 3.10 Å
+8. LYS 224 - ARG:CtermProteinFull 16: 3.25 Å
+9. ASN 262 - ARG:CtermProteinFull 16: 3.30 Å
+10. ARG 222 - LYS 15: 3.57 Å

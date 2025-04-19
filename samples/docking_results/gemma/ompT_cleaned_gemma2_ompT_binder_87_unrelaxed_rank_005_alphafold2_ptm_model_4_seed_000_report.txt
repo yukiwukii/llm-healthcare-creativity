@@ -1,0 +1,37 @@
+Monte Carlo Docking Results
+==========================
+
+Receptor: ompT_cleaned.pdb
+Ligand: pdb_files/gemma/gemma2_ompT_binder_87_unrelaxed_rank_005_alphafold2_ptm_model_4_seed_000.pdb
+
+Initial score: 16869.98 REU
+Final score: 16854.91 REU
+Score improvement: 15.07 REU
+
+Receptor score: -350.86 REU
+Ligand score: 130.83 REU
+Binding energy: 17074.94 REU
+
+Binding Energy Interpretation:
+Unfavorable binding (> 10 REU)
+
+Interface Analysis:
+Number of interface contacts: 173
+Receptor residues in interface: 62
+Ligand residues in interface: 7
+
+Interface Residues:
+Receptor: 71, 110, 111, 112, 113, 114, 115, 116, 117, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 254, 255, 256, 257, 258, 259, 260, 261, 262, 282, 283, 284
+Ligand: 15, 16, 17, 18, 19, 20, 21
+
+Closest Contacts:
+1. GLN 228 - PHE:CtermProteinFull 21: 0.22 Å
+2. TYR 230 - PHE:CtermProteinFull 21: 0.24 Å
+3. GLU 205 - TRP 18: 0.32 Å
+4. PRO 179 - LYS 20: 0.37 Å
+5. LYS 177 - TYR 19: 0.41 Å
+6. PHE 176 - TYR 19: 0.46 Å
+7. VAL 204 - PHE:CtermProteinFull 21: 0.49 Å
+8. TYR 180 - LYS 20: 0.60 Å
+9. LYS 177 - TRP 18: 0.60 Å
+10. GLN 135 - TYR 19: 0.76 Å

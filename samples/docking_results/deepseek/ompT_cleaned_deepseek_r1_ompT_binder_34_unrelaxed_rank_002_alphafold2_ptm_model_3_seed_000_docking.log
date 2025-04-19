@@ -1,0 +1,26 @@
+[2025-04-03 04:39:17] Starting docking of ompT_cleaned with deepseek_r1_ompT_binder_34_unrelaxed_rank_002_alphafold2_ptm_model_3_seed_000
+[2025-04-03 04:39:17] Importing PyRosetta modules
+[2025-04-03 04:39:17] Initializing PyRosetta
+[2025-04-03 04:39:17] Loading receptor and ligand
+[2025-04-03 04:39:17] Loaded receptor (301 residues) and ligand (19 residues)
+[2025-04-03 04:39:17] Creating score function
+[2025-04-03 04:39:17] Score function created
+[2025-04-03 04:39:17] Creating merged PDB file
+[2025-04-03 04:39:17] Loading merged structure
+[2025-04-03 04:39:17] Merged structure loaded with 320 residues
+[2025-04-03 04:39:17] Initial complex score: 2923.54 REU
+[2025-04-03 04:39:17] Setting up Monte Carlo docking protocol
+[2025-04-03 04:39:17] Running Monte Carlo docking - this may take some time
+[2025-04-03 04:39:31] Monte Carlo docking completed
+[2025-04-03 04:39:31] Final complex score: 2907.49 REU
+[2025-04-03 04:39:31] Score improvement: 16.06 REU
+[2025-04-03 04:39:31] Saved docked structure as large_docking_results/deepseek/ompT_cleaned_deepseek_r1_ompT_binder_34_unrelaxed_rank_002_alphafold2_ptm_model_3_seed_000_docked.pdb
+[2025-04-03 04:39:31] Receptor score: -350.86 REU
+[2025-04-03 04:39:31] Ligand score: 23.25 REU
+[2025-04-03 04:39:31] Binding energy: 3235.10 REU
+[2025-04-03 04:39:31] Analyzing interface
+[2025-04-03 04:39:42] Interface contacts: 102
+[2025-04-03 04:39:42] Receptor residues in interface: 38
+[2025-04-03 04:39:42] Ligand residues in interface: 9
+[2025-04-03 04:39:42] Docking report written to large_docking_results/deepseek/ompT_cleaned_deepseek_r1_ompT_binder_34_unrelaxed_rank_002_alphafold2_ptm_model_3_seed_000_report.txt
+[2025-04-03 04:39:42] Docking analysis complete

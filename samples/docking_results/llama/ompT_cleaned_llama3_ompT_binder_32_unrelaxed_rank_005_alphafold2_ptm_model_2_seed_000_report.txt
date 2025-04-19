@@ -1,0 +1,37 @@
+Monte Carlo Docking Results
+==========================
+
+Receptor: ompT_cleaned.pdb
+Ligand: pdb_files/llama/llama3_ompT_binder_32_unrelaxed_rank_005_alphafold2_ptm_model_2_seed_000.pdb
+
+Initial score: 29.22 REU
+Final score: 12.87 REU
+Score improvement: 16.35 REU
+
+Receptor score: -350.86 REU
+Ligand score: -7.64 REU
+Binding energy: 371.36 REU
+
+Binding Energy Interpretation:
+Unfavorable binding (> 10 REU)
+
+Interface Analysis:
+Number of interface contacts: 58
+Receptor residues in interface: 27
+Ligand residues in interface: 9
+
+Interface Residues:
+Receptor: 112, 133, 134, 136, 138, 175, 176, 177, 178, 179, 180, 201, 202, 203, 204, 205, 206, 207, 222, 224, 226, 227, 228, 259, 262, 275, 277
+Ligand: 2, 3, 4, 6, 7, 9, 10, 13, 14
+
+Closest Contacts:
+1. LYS 177 - TRP 10: 0.80 Å
+2. ARG 175 - TRP 10: 0.90 Å
+3. LYS 226 - LYS 7: 1.26 Å
+4. PRO 179 - LYS 6: 1.95 Å
+5. ASP 227 - LYS 3: 2.51 Å
+6. ARG 175 - ARG 13: 2.83 Å
+7. TRP 203 - LYS 6: 3.01 Å
+8. GLU 205 - TRP 10: 3.79 Å
+9. TRP 203 - LYS 3: 4.19 Å
+10. GLU 205 - LYS 6: 4.32 Å

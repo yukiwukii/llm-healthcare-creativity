@@ -1,0 +1,6 @@
+Sequence ID,Novelty Status,Top Hit,Top Identity (%)
+Penetratin|Original,Unknown (BLAST failed),BLAST analysis failed,0.0
+T1-14|Optimized,Known,sp|P09087.3| RecName: Full=Homeobox protein abdominal-B; AltName: Full=Infraabdominal 7; Short=IAB-7; AltName: Full=P3; AltName: Full=PH189 [Drosophila melanogaster],81.25
+T1-15|Optimized,Novel,,0.0
+T1-1|Optimized,Known,sp|P31256.1| RecName: Full=Homeobox protein Hox-B6; AltName: Full=XlHox-2.2 [Xenopus laevis],81.25
+T1-2|Effective_No_Resistance,Known,sp|P31256.1| RecName: Full=Homeobox protein Hox-B6; AltName: Full=XlHox-2.2 [Xenopus laevis],87.5

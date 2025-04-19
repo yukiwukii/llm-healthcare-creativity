@@ -1,0 +1,10 @@
+Short Protein Novelty Analysis Summary
+===================================
+
+Total sequences analyzed: 75
+Novel sequences: 65 (86.67%)
+Known sequences: 0 (0.0%)
+Unknown (BLAST failed): 10 (13.33%)
+
+Identity threshold: 85%
+Detailed results saved to: ./gemma/novelty_report_20250417_112014.csv

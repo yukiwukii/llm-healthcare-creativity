@@ -1,0 +1,37 @@
+Monte Carlo Docking Results
+==========================
+
+Receptor: ompT_cleaned.pdb
+Ligand: pdb_files/llama/llama3_ompT_binder_11_unrelaxed_rank_001_alphafold2_ptm_model_4_seed_000.pdb
+
+Initial score: 9708.89 REU
+Final score: 9692.52 REU
+Score improvement: 16.37 REU
+
+Receptor score: -350.86 REU
+Ligand score: -4.03 REU
+Binding energy: 10047.41 REU
+
+Binding Energy Interpretation:
+Unfavorable binding (> 10 REU)
+
+Interface Analysis:
+Number of interface contacts: 147
+Receptor residues in interface: 47
+Ligand residues in interface: 9
+
+Interface Residues:
+Receptor: 110, 111, 112, 113, 114, 134, 135, 136, 137, 138, 139, 174, 175, 176, 177, 178, 179, 201, 202, 203, 204, 205, 206, 207, 208, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 255, 256, 257, 258, 259, 260, 261, 262, 275, 282, 283, 284
+Ligand: 10, 11, 12, 13, 14, 15, 16, 17, 18
+
+Closest Contacts:
+1. GLN 228 - LYS:CtermProteinFull 18: 0.36 Å
+2. LYS 224 - TYR 16: 0.46 Å
+3. VAL 204 - LYS:CtermProteinFull 18: 0.51 Å
+4. PHE 176 - LYS:CtermProteinFull 18: 0.71 Å
+5. GLU 205 - LYS:CtermProteinFull 18: 0.75 Å
+6. GLU 205 - TYR 16: 0.86 Å
+7. LYS 177 - ASN 17: 0.89 Å
+8. GLU 205 - PRO 15: 0.98 Å
+9. ARG 175 - ASN 17: 0.99 Å
+10. LYS 177 - TRP 14: 1.00 Å

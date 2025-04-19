@@ -1,0 +1,10 @@
+Bio==1.7.1
+matplotlib==3.7.5
+numpy==2.2.4
+ollama==0.4.8
+openai==1.75.0
+pandas==2.2.3
+python-dotenv==1.1.0
+scipy==1.15.2
+seaborn==0.13.2
+tqdm==4.66.5

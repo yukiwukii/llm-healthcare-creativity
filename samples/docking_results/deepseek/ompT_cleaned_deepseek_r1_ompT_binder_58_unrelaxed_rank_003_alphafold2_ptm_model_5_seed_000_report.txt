@@ -1,0 +1,37 @@
+Monte Carlo Docking Results
+==========================
+
+Receptor: ompT_cleaned.pdb
+Ligand: pdb_files/deepseek/deepseek_r1_ompT_binder_58_unrelaxed_rank_003_alphafold2_ptm_model_5_seed_000.pdb
+
+Initial score: 40510.87 REU
+Final score: 40495.54 REU
+Score improvement: 15.33 REU
+
+Receptor score: -350.86 REU
+Ligand score: -5.37 REU
+Binding energy: 40851.76 REU
+
+Binding Energy Interpretation:
+Unfavorable binding (> 10 REU)
+
+Interface Analysis:
+Number of interface contacts: 495
+Receptor residues in interface: 98
+Ligand residues in interface: 18
+
+Interface Residues:
+Receptor: 23, 24, 25, 26, 27, 28, 29, 30, 31, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 71, 79, 80, 81, 82, 83, 104, 105, 106, 111, 112, 113, 114, 132, 133, 134, 135, 136, 137, 138, 139, 141, 142, 143, 170, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 275, 278, 279, 280, 281, 282, 283, 284, 285, 286
+Ligand: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 19
+
+Closest Contacts:
+1. ASP 227 - LYS 10: 0.10 Å
+2. PRO 179 - LYS 11: 0.27 Å
+3. THR 25 - ARG:NtermProteinFull 1: 0.28 Å
+4. VAL 225 - LEU 6: 0.37 Å
+5. GLN 228 - LEU 7: 0.43 Å
+6. VAL 204 - LEU 7: 0.47 Å
+7. LYS 259 - LEU 6: 0.48 Å
+8. LYS 224 - LYS 9: 0.49 Å
+9. ILE 282 - LEU 5: 0.50 Å
+10. TRP 44 - ARG:NtermProteinFull 1: 0.56 Å
