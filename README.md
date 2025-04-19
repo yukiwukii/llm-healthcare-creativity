@@ -1,7 +1,7 @@
 # LLM Healthcare Creativity
 
 ## 🌏 Overview
-This is the code repository for 'Benchmarking LLM Creativity in Healthcare and Drug Design'.
+This is the code repository for 'Benchmarking LLM Creativity in Healthcare and Drug Design' [(Full Paper)](Report.pdf).
 
 ## 💾 Installation and Preparation
 1. First, clone this repository and `cd` into it.
